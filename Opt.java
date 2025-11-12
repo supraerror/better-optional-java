@@ -8,7 +8,7 @@ import static java.util.Objects.requireNonNull;
  * A container object which may or may not contain a non-null value.
  *
  * @param <T> the type of the value
- * @author <a href="https://github.com/philou404">philou404</a>
+ * @author <a href="https://github.com/supraerror">supraerror</a>
  * @version 1.1
  */
 public sealed interface Opt<T> {
